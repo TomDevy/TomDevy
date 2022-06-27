@@ -1,11 +1,9 @@
- 👋 Hello World, I’m Emmanuel. 
- 
- I'm an IT student. I like to solve problems creatively by writing codes.
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on Projects that solves any existing human problem.
-- Fun Fact: I write Poems in my spare time.
+<h1>🙌 Hello World🌍</h1>
+<h2>👨‍💻👨‍ I'm Emmanuel, an Information Technology student. I like to solve problems creatively by writing codes.</h2>
+<h3>
+Let's connect on
 
-<!---
-TomDevy/TomDevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ol><a href="https://www.linkedin.com/in/agboola-emmanuel-ab0196224/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5Boi%2Fcy%2BQNiRMheQxk%2BBiQ%3D%3D">LinkedIn</a></ol>
+<ol><a href="https://twitter.com/Tom_Agboola">Twitter</a></ol>
+</h3>
+
