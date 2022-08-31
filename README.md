@@ -1,4 +1,4 @@
-<h2>🙌 Hello World🌍
+<h2> Hello World🌍
 <h2> I'm Emmanuel, an Information Technology student, and FrontEnd engineer who is passionate about developing user-friendly web applications.</h2>
 <h3>
 Let's connect on:
