@@ -1,5 +1,5 @@
 <h2> Hello World🌍
-<h2> I'm Emmanuel, an Information Technology student, and frontEnd Engineer who is passionate about developing user-friendly web applications.</h2>
+<h2 className="font-bold text-2xl"> I'm Emmanuel, an Information Technology student, and frontEnd engineer who is passionate about developing user-friendly web applications.</h2>
 <h3>
 Let's connect on:
 
