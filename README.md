@@ -1,4 +1,4 @@
-<h2> Hello World!!
+<h2> Hello World!
 <h2 className="font-bold text-2xl"> I'm Emmanuel, an Information Technolgy student and Frontend Engineer who is passionate about developing user-friendly web applications.</h2>
 <h3>
 Let's connect on:
