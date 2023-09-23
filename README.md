@@ -8,6 +8,6 @@ Let's connect on:
 </h3>
   
   <h3>
-    Thank you for taking out time to view my profile.
+    Let's build together.
   </h3>
 
