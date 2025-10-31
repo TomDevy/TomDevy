@@ -8,6 +8,6 @@ Let's connect on:
 </h3>
   
   <h3>
-    Let's build together!
+    Let's build impact-driven together!
   </h3>
 
