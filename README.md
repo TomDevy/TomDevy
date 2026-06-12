@@ -8,6 +8,6 @@ Let's connect on:
 </h3>
   
   <h3>
-    Let's build impact-driven products together.
+    Let's build impact-driven products together!
   </h3>
 
