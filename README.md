@@ -1,5 +1,5 @@
 <h2> Hello World!</h2>
-<h2 className="font-bold text-2xl"> I'm Emmanuel, a Global, skillful, and diligent Frontend Software Engineer who is passionate about building user-friendly, highly impactful Web Applications.</h2>
+<h2 className="font-bold text-2xl"> I'm Emmanuel, a Global, skillful, and diligent Frontend Software Engineer who is passionate about building user-friendly, highly impactful Web Applications. With over 4 years of experience shipping products and solutions</h2>
 <h3>
 Let's connect on:
 
