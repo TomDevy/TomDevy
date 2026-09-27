@@ -4,7 +4,7 @@
 Let's connect on:
 
 <ol><a href="https://www.linkedin.com/in/emmanuel-agboola-tom/">LinkedIn</a></ol>
-<ol><a href="https://twitter.com/Tom_Agboola">X</a></ol>
+<ol><a href="https://x.com/Tom_Agboola">X</a></ol>
 </h3>
   
   <h3>
